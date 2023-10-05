@@ -1,1 +1,1 @@
-# iths
+# Python studier ITHS
