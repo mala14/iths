@@ -8,6 +8,7 @@ def pc_choice():
     cpu_choice = random.choice(choices)
     return cpu_choice
 
+
 def main():
     """
         Main game. Player selects choice. If tied a new round starts.
